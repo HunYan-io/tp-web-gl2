@@ -1,2 +1,2 @@
 # tp-web-gl2
-HTML &amp; CSS assignment
+Web assignments (university)
